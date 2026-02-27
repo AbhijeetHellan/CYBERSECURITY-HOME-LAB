@@ -7,4 +7,4 @@ This repository contains my Cybersecurity Home Lab work. This repository is a do
 ## Table of Contents
 
 ### 1) Linux Security Basics
-- [Linux Security Basics Lab](Linux%20Security%20Basics.pdf)
+- [Linux Security Basics Lab](LABS/Linux%20Security%20Basics.pdf)
